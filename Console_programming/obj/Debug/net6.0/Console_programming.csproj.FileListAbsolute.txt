@@ -1,0 +1,15 @@
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\bin\Debug\net6.0\Console_programming.exe
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\bin\Debug\net6.0\Console_programming.deps.json
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\bin\Debug\net6.0\Console_programming.runtimeconfig.json
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\bin\Debug\net6.0\Console_programming.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\bin\Debug\net6.0\ref\Console_programming.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\bin\Debug\net6.0\Console_programming.pdb
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\obj\Debug\net6.0\Console_programming.csproj.AssemblyReference.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\obj\Debug\net6.0\Console_programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\obj\Debug\net6.0\Console_programming.AssemblyInfoInputs.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\obj\Debug\net6.0\Console_programming.AssemblyInfo.cs
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\obj\Debug\net6.0\Console_programming.csproj.CoreCompileInputs.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\obj\Debug\net6.0\Console_programming.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\obj\Debug\net6.0\ref\Console_programming.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\obj\Debug\net6.0\Console_programming.pdb
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Console_programming\obj\Debug\net6.0\Console_programming.genruntimeconfig.cache

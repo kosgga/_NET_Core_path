@@ -1,0 +1,15 @@
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\obj\Debug\net6.0\Tip_dönüşümleri.csproj.AssemblyReference.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\obj\Debug\net6.0\Tip_dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\obj\Debug\net6.0\Tip_dönüşümleri.AssemblyInfoInputs.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\obj\Debug\net6.0\Tip_dönüşümleri.AssemblyInfo.cs
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\obj\Debug\net6.0\Tip_dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\bin\Debug\net6.0\Tip_dönüşümleri.exe
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\bin\Debug\net6.0\Tip_dönüşümleri.deps.json
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\bin\Debug\net6.0\Tip_dönüşümleri.runtimeconfig.json
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\bin\Debug\net6.0\Tip_dönüşümleri.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\bin\Debug\net6.0\ref\Tip_dönüşümleri.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\bin\Debug\net6.0\Tip_dönüşümleri.pdb
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\obj\Debug\net6.0\Tip_dönüşümleri.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\obj\Debug\net6.0\ref\Tip_dönüşümleri.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\obj\Debug\net6.0\Tip_dönüşümleri.pdb
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Tip_dönüşümleri\obj\Debug\net6.0\Tip_dönüşümleri.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\obj\Debug\net6.0\Hata yönetimi.csproj.AssemblyReference.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\obj\Debug\net6.0\Hata yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\obj\Debug\net6.0\Hata yönetimi.AssemblyInfoInputs.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\obj\Debug\net6.0\Hata yönetimi.AssemblyInfo.cs
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\obj\Debug\net6.0\Hata yönetimi.csproj.CoreCompileInputs.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\bin\Debug\net6.0\Hata yönetimi.exe
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\bin\Debug\net6.0\Hata yönetimi.deps.json
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\bin\Debug\net6.0\Hata yönetimi.runtimeconfig.json
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\bin\Debug\net6.0\Hata yönetimi.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\bin\Debug\net6.0\ref\Hata yönetimi.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\bin\Debug\net6.0\Hata yönetimi.pdb
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\obj\Debug\net6.0\Hata yönetimi.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\obj\Debug\net6.0\ref\Hata yönetimi.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\obj\Debug\net6.0\Hata yönetimi.pdb
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Hata yönetimi\obj\Debug\net6.0\Hata yönetimi.genruntimeconfig.cache

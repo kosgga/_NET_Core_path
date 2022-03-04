@@ -47,7 +47,10 @@ namespace diziler
             Console.WriteLine("Ortalama : "+toplam/diziuzunluğu);
 
         }
-        
+        if (true)
+        {
+            
+        }
     }
     
 }

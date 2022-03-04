@@ -1,0 +1,15 @@
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\bin\Debug\net6.0\array_sınıfı_metotları.exe
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\bin\Debug\net6.0\array_sınıfı_metotları.deps.json
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\bin\Debug\net6.0\array_sınıfı_metotları.runtimeconfig.json
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\bin\Debug\net6.0\array_sınıfı_metotları.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\bin\Debug\net6.0\ref\array_sınıfı_metotları.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\bin\Debug\net6.0\array_sınıfı_metotları.pdb
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\obj\Debug\net6.0\array_sınıfı_metotları.csproj.AssemblyReference.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\obj\Debug\net6.0\array_sınıfı_metotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\obj\Debug\net6.0\array_sınıfı_metotları.AssemblyInfoInputs.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\obj\Debug\net6.0\array_sınıfı_metotları.AssemblyInfo.cs
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\obj\Debug\net6.0\array_sınıfı_metotları.csproj.CoreCompileInputs.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\obj\Debug\net6.0\array_sınıfı_metotları.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\obj\Debug\net6.0\ref\array_sınıfı_metotları.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\obj\Debug\net6.0\array_sınıfı_metotları.pdb
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\array_sınıfı_metotları\obj\Debug\net6.0\array_sınıfı_metotları.genruntimeconfig.cache

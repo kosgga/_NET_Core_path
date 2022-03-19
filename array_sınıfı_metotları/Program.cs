@@ -44,6 +44,7 @@ namespace array_sınıfı
             //Verdiğimiz dizi içinde verdiğimiz elemanın içerisinde varsa indexini döner
             Console.WriteLine("IndexOf Uygulaması : ");
             Console.WriteLine(Array.IndexOf(sayidizisi,23));
+            Array.as
 
             //Resize 
             //Yeniden boyutlandırma yapıyor

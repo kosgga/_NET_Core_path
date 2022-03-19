@@ -1,0 +1,15 @@
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\obj\Debug\net6.0\Metotlar.csproj.AssemblyReference.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\obj\Debug\net6.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\obj\Debug\net6.0\Metotlar.AssemblyInfoInputs.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\obj\Debug\net6.0\Metotlar.AssemblyInfo.cs
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\obj\Debug\net6.0\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\bin\Debug\net6.0\Metotlar.exe
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\bin\Debug\net6.0\Metotlar.deps.json
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\bin\Debug\net6.0\Metotlar.runtimeconfig.json
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\bin\Debug\net6.0\Metotlar.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\bin\Debug\net6.0\ref\Metotlar.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\bin\Debug\net6.0\Metotlar.pdb
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\obj\Debug\net6.0\Metotlar.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\obj\Debug\net6.0\ref\Metotlar.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\obj\Debug\net6.0\Metotlar.pdb
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\Metotlar\obj\Debug\net6.0\Metotlar.genruntimeconfig.cache

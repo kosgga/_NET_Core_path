@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "rekürsif_extension/1.0.0": {
+        "runtime": {
+          "rekürsif_extension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rekürsif_extension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

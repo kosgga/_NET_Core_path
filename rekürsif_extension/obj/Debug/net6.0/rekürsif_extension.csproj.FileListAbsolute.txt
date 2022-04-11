@@ -1,0 +1,15 @@
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\bin\Debug\net6.0\rekürsif_extension.exe
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\bin\Debug\net6.0\rekürsif_extension.deps.json
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\bin\Debug\net6.0\rekürsif_extension.runtimeconfig.json
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\bin\Debug\net6.0\rekürsif_extension.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\bin\Debug\net6.0\ref\rekürsif_extension.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\bin\Debug\net6.0\rekürsif_extension.pdb
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\obj\Debug\net6.0\rekürsif_extension.csproj.AssemblyReference.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\obj\Debug\net6.0\rekürsif_extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\obj\Debug\net6.0\rekürsif_extension.AssemblyInfoInputs.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\obj\Debug\net6.0\rekürsif_extension.AssemblyInfo.cs
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\obj\Debug\net6.0\rekürsif_extension.csproj.CoreCompileInputs.cache
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\obj\Debug\net6.0\rekürsif_extension.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\obj\Debug\net6.0\ref\rekürsif_extension.dll
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\obj\Debug\net6.0\rekürsif_extension.pdb
+C:\Users\Kosgga\Documents\Sites\_NET_Core_path\rekürsif_extension\obj\Debug\net6.0\rekürsif_extension.genruntimeconfig.cache

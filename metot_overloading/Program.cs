@@ -55,7 +55,6 @@ namespace metotlar_overloading
         }
         public void Ekranayazdir(string veri, string veri2)
         {
-            Console.WriteLine(veri+" "+veri2);
         }
     }
 }
